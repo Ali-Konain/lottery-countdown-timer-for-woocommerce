@@ -1,0 +1,6 @@
+Lottery CountDown timer & Progress Bar Live
+
+
+2023-07-04 - version 1.0.0
+* Initial Release
+* Custom client task to display countdown timer and progress bar on the product and shop page
